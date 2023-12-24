@@ -1,6 +1,6 @@
 # PyTorch Tutorials
 
-![PyTorch Logo]()
+![PyTorch Logo](https://github.com/amith7025/pytorch-tutorials/blob/main/download%20(2).png)
 
 Welcome to the PyTorch Tutorials repository! 🚀 This repository contains a series of hands-on tutorials covering fundamental to advanced topics in PyTorch.
 
