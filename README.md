@@ -75,4 +75,8 @@ Make sure you have the following prerequisites installed:
 Clone the repository and install the required dependencies using:
 
 ```bash
-git clone 
+git clone  https://github.com/amith7025/pytorch-tutorials.git
+cd pytorch-tutorials
+
+
+Happy Coding
