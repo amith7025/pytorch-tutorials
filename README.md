@@ -1,5 +1,7 @@
 # PyTorch Tutorials
 
+![PyTorch Logo]()
+
 Welcome to the PyTorch Tutorials repository! 🚀 This repository contains a series of hands-on tutorials covering fundamental to advanced topics in PyTorch.
 
 ## Table of Contents
